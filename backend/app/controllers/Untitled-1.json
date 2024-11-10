@@ -1,0 +1,36 @@
+{
+    "name": "name",
+    "description": "description",
+    "fabricComposition": "fabricComposition",
+    "trims": "trims",
+    "sustainability": "sustainability",
+    "washCare": "washCare",
+    "style": "style",
+    "searchableText": "searchableText",
+    "variants": [
+        {
+            "colorID": "colorID",
+            "quantity": "quantity",
+            "price": "price",
+            "discount": "discount",
+            "variantSizes": {
+                "price": "price",
+                "sizeID": "sizeID",
+                "quantity": "quantity"
+            },
+            "images": []
+        },
+        {
+            "colorID": "colorID",
+            "quantity": "quantity",
+            "price": "price",
+            "discount": "discount",
+            "variantSizes": {
+                "price": "price",
+                "sizeID": "sizeID",
+                "quantity": "quantity"
+            },
+            "images": []
+        }
+    ]
+}
